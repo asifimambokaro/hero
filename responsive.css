@@ -1,0 +1,13 @@
+@media (min-width: 326px){
+    p.f2.heading{
+        line-height: 22px;
+        font-size: 14px !important;
+         
+    } 
+    
+    p.f3.heading{
+        line-height: 22px;
+        font-size: 14px !important;
+         
+    }
+}
